@@ -1,0 +1,6 @@
+pyotp
+NorenRestApiPy
+pandas
+numpy
+python-dotenv
+requests
